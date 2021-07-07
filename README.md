@@ -1,0 +1,1 @@
+Kesikli olay benzetimin olay artırımlı modelleme yapısına göre tablo oluşturan uygulama
